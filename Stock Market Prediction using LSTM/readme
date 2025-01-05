@@ -1,1 +1,1 @@
-hello
+This repository showcases a time series prediction model using LSTM to forecast future values for 50 and 100 days. It includes data preprocessing, model training, and visualizations of predictions alongside the original data. The predictions are plotted separately for clarity, with the 50-day forecast in orange and the 100-day forecast in green. Simply run the script with your dataset to generate predictions and visualize results. Dependencies include TensorFlow, NumPy, Matplotlib, Pandas, and scikit-learn. Contributions are welcome to improve the project!
